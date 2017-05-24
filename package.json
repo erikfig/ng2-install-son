@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "ng2-install": "bin/ng2-intall"
+    "ng2-install": "bin/ng2-install"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
